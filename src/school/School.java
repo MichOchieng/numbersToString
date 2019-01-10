@@ -329,7 +329,7 @@ public class School {
         }     
     }
     
-    public static void sorterCase4(int x){
+     public static void sorterCase4(int x){
      thousands(x);
      hundredTh(x);
      tensTh(x);
@@ -344,13 +344,3 @@ public class School {
      singlesMilion(x);    
     }
 }
-
-/**
- * Class to count w's
- * 
- * testers to check out #s with lots of zeros
- * fix spacing
- * fix formatting
- */ 
-
-
